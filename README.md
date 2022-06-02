@@ -2,6 +2,7 @@
 An analysis of the trends in firearm background checks in America and its territories
 ### Introduction
 On the 24th of May, 2022, an 18-year-old gunman shot and killed 21 people in an [elementary school in Texas](https://www.aljazeera.com/news/2022/5/25/texas-shooting-what-where-and-who). It is sad and horrible news and it raises the question of how that teenager was able to get access to a gun. It could be owned by someone he knows or by him, since he is of legal age. Either ways, it is, unfortunately, quite fitting to analyse information on background checks conducted for gun sales in America.
+My analysis can be found in [this Jupyter notebook](https://github.com/ItunuoluwaOlowoye/firearms_analysis/blob/main/Investigating%20the%20FireArms%20Check%20Dataset.ipynb).
 
 This dataset is from the FBI's National Instant Criminal Background Check System(NICS). It is used by gun shops to determine whether prospective buyers are eligible to buy firearms or not. 
 **It is important to note that these numbers do not represent the number of firearms sold due to varying state laws and purchase scenarios.**
